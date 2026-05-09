@@ -150,16 +150,4 @@ Collins Mwangi
 
 ---
 
-# GitHub Repository Description
-
-```text
-Beginner JavaScript project for learning loops, arrays, and conditionals through practical examples.
-```
-
----
-
-# Suggested Commit Message
-
-```text
-Create Number Analyzer JavaScript loops project
 ```
